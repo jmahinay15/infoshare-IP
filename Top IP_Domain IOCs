@@ -1,0 +1,29 @@
+Top IOC's Observed:
+
+--------------------------------------------------------------------------
+
+IP/Domain
+
+162.244.34[.]152 	- IP resolution of auth.athaliaoriginals[.]com 
+
+104.23.98[.]190 - IP resolution of PasteBin. Associated with Cobalt Strike Beacon  
+
+auth.athaliaoriginals[.]com - Cobalt Strike Beacon C2 
+
+109.234.156[.]178 - Associated with rutserv.exe 
+
+46.249.59[.]91 - IP resolution of Moderator.hldns[.]ru 
+
+31.184.215[.]135 - Associated with rutserv.exe 
+
+109.234.156[.]180 - IP resolution of rms-server.tektonit[.]ru 
+
+rms-server.tektonit[.]ru - Associated with rutserv.exe 
+
+Moderator.hldns[.]ru - Associated with rutserv.exe 
+
+176.121.14[.]226 - associated with GRACEFUL SPIDER 
+
+176.121.14[.]237 - associated with GRACEFUL SPIDER 
+
+173.232.146[.]37 - Cobalt Strike Beacon C2 
